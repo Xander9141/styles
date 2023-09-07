@@ -1,0 +1,40 @@
+
+.titulo {
+    font-family: "Comic Sans MS", cursive;
+    color: white;
+    background-color: black;
+    max-height: 800px;
+    margin: 10px 0px;
+    padding-left: 15px;
+    
+
+}
+
+
+.cloud {
+    color: rgb(12, 197, 206); 
+}
+
+
+
+h2 {
+    font-family: "Comic Sans MS", sans-serif; 
+    font-style: italic;
+    color: white;
+    background-color: rgba(95, 5, 110, 0.714);
+    text-align: center;
+    max-height: 600px;
+    margin: 0;
+}
+
+
+.subrayado {
+    font-family: "Comic Sans MS", cursive;
+    color: rgb(6, 6, 95);
+    background-color: rgba(29, 183, 221, 0.481);
+    text-align: right;
+    text-decoration: underline;
+    margin: 10px 0px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
